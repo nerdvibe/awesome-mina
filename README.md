@@ -31,7 +31,7 @@ List of content:
 * [Mina Telegram](https://t.me/minaprotocol) Official Mina Telegram Channel
 
 # Wallets
-* [~Clorio]() A Mina Protocol Browser/Desktop wallet
+* [~Clorio](https://clor.io) A Mina Protocol Browser/Desktop wallet
 
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) A Mina explorer
