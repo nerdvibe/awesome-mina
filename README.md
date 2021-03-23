@@ -40,7 +40,7 @@ List of content:
 # Tools
 * [Mina Gas Station](https://fees.mina.tools/) Transaction fees and Snark price estimator
 * [Mina Tools](https://mina.tools) A website with tools for Mina Protocol
-* [MinaExplorer API](https://graphql.minaexplorer.com/) Open GraphQL API from MinaExplorer 
+* [MinaExplorer API](https://graphql.minaexplorer.com/) Open GraphQL API from MinaExplorer
 * [Validators List](https://mina.staketab.com/) Overview of validators for mainnet
 
 # Staking pools
@@ -49,9 +49,10 @@ List of content:
 * [Staketab pool](https://staketab.com/) A staking pool with 7% fee
 * [ZKValidator pool](https://zkvalidator.com/) A staking pool with 10% fee
 * [P2P Validator](https://p2p.org/) A staking pool with 8% fee
+* [TheMinaPool](https://theminapool.com) A staking pool with 5% fee and open source payout
 
 # Node scripts
-* [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark 
+* [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 
@@ -65,9 +66,9 @@ List of content:
 
 # International communities
 
-* [Italy](https://t.me/mina_italia) 🇮🇹 Italian telegram community 
-* [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community 
-* [Korea](https://t.me/minaprotocol_kr) 🇰🇷 Korean telegram community 
+* [Italy](https://t.me/mina_italia) 🇮🇹 Italian telegram community
+* [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community
+* [Korea](https://t.me/minaprotocol_kr) 🇰🇷 Korean telegram community
 * [Indonesia](http://t.me/Mina_Indonesia) 🇮🇩 Indonesian telegram community
 * [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish  telegram community
 * [Germany](https://t.me/mina_dach) 🇩🇪 German/DACH telegram community
