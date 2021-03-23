@@ -15,6 +15,7 @@ List of content:
 - [Explorers](#Explorers)
 - [Tools](#Tools)
 - [Staking pools](#Staking-pools)
+- [Installation scripts and bundles](#Installation-scripts-and-bundles)
 - [Node scripts](#Node-scripts)
 - [Github repositories](#Github-repositories)
 - [Payout scripts](#Payout-scripts)
@@ -50,9 +51,12 @@ List of content:
 * [ZKValidator pool](https://zkvalidator.com/) A staking pool with 10% fee
 * [P2P Validator](https://p2p.org/) A staking pool with 8% fee
 
-# Node scripts
-* [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark 
+# Installation scripts and bundles
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
+* [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
+
+# Node scripts
+* [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 
 # Github repositories
