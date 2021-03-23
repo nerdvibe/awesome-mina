@@ -49,6 +49,7 @@ List of content:
 * [Staketab pool](https://staketab.com/) A staking pool with 7% fee
 * [ZKValidator pool](https://zkvalidator.com/) A staking pool with 10% fee
 * [P2P Validator](https://p2p.org/) A staking pool with 8% fee
+* [0base.vc](https://mina.0base.vc) A beginner's luck strategy applied staking pool with 5% fee
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark 
