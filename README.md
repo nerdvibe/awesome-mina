@@ -34,13 +34,13 @@ List of content:
 * [~Clorio](https://clor.io) A Mina Protocol Browser/Desktop wallet
 
 # Explorers
-* [MinaExplorer](https://minaexplorer.com/) A Mina explorer
+* [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
+* [Hubble Explorer](https://hubble.figment.io/mina/chains/mainnet) A Mina Explorer focused on staking
 
 # Tools
 * [Mina Gas Station](https://fees.mina.tools/) Transaction fees and Snark price estimator
 * [Mina Tools](https://mina.tools) A website with tools for Mina Protocol
 * [MinaExplorer API](https://graphql.minaexplorer.com/) Open GraphQL API from MinaExplorer 
-* [Hubble](https://hubble.figment.io/mina/chains/mainnet) Tool to have an overview of network the blocks
 * [Validators List](https://mina.staketab.com/) Overview of validators for mainnet
 
 # Staking pools
@@ -74,3 +74,8 @@ List of content:
 * [Turkey](https://t.me/Mina_Turkiye) 🇹🇷 Turkish telegram community
 * [France](https://t.me/mina_france) 🇫🇷 French telegram community
 * [Ukraine](https://t.me/mina_ukraine) 🇺🇦 Ukrainian telegram community
+
+
+------
+
+###### Awesome Mina and awesome.mina.tools are community developed projects and are not affiliated to Mina Foundation/O(1)Labs.
