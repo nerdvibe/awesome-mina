@@ -1,5 +1,5 @@
 # Awesome Mina [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of Mina resources, software and tools for Mina Protocol.
+A curated list of Mina resources, software and tools for Mina Protocol. This list is open-source and you can contribute to improve it by creating a PR or submitting an issue on the [Github repository](https://github.com/nerdvibe/awesome-mina) by following [the guidelines](https://github.com/nerdvibe/awesome-mina/blob/main/Contributing.md).
 
 <p align="center">
   <br>
