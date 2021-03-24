@@ -42,6 +42,7 @@ List of content:
 * [Mina Tools](https://mina.tools) A website with tools for Mina Protocol
 * [MinaExplorer API](https://graphql.minaexplorer.com/) Open GraphQL API from MinaExplorer
 * [Validators List](https://mina.staketab.com/) Overview of validators for mainnet
+* [MinaGraph API](https://minagraph.com) An alternative public GraphQL API node for Mina, exposed from the original GraphQL API of the Mina daemon
 
 # Staking pools
 * [WeStake:Club⚡️](https://westake.club) A staking pool with 2% fee
