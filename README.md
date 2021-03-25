@@ -66,6 +66,9 @@ List of content:
 * [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn payout script
 * [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer payout script
 
+# Others
+* [MinaMask🎃](https://mask.minagraph.com) A tool for creating a cool Mina mask avatar, fun stuff for the Mina community
+
 # International communities
 
 * [Italy](https://t.me/mina_italia) 🇮🇹 Italian telegram community
