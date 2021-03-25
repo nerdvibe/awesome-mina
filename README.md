@@ -55,6 +55,7 @@ List of content:
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
+* [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
 
