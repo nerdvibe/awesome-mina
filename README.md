@@ -45,7 +45,7 @@ List of content:
 * [MinaGraph API](https://minagraph.com) An alternative public GraphQL API node for Mina, exposed from the original GraphQL API of the Mina daemon
 
 # Staking pools
-* [WeStake:Club⚡️](https://westake.club) A staking pool with 2% fee
+* [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
 * [MinaExplorer pool](https://docs.minaexplorer.com/minaexplorer/staking-pool) A staking pool with 5% fee
 * [Staketab pool](https://staketab.com/) A staking pool with 7% fee
 * [ZKValidator pool](https://zkvalidator.com/) A staking pool with 10% fee
