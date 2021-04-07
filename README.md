@@ -52,13 +52,14 @@ List of content:
 * [P2P Validator](https://p2p.org/) A staking pool with 8% fee
 * [TheMinaPool](https://theminapool.com) A staking pool with 5% fee
 * [0base.vc pool](https://mina.0base.vc) A staking pool with 5% fee
+* [Piconbello pool](https://mina.piconbello.com) A staking pool with 0% fee
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
-
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
+* [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
 
 # Github repositories
 * [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
@@ -67,6 +68,9 @@ List of content:
 # Payout scripts
 * [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn payout script
 * [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer payout script
+
+# Others
+* [MinaMask🎃](https://mask.minagraph.com) A tool for creating a cool Mina mask avatar, fun stuff for the Mina community
 
 # International communities
 
