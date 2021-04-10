@@ -56,6 +56,8 @@ List of content:
 * [Piconbello pool](https://mina.piconbello.com) A staking pool with 0% fee
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
+* [FIERYDEV-MCLB](https://millenniumclub.ca) A staking pool with 5% fee
+* [ANJU-MCLB](https://millenniumclub.ca) A staking pool with 5% fee
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
@@ -85,6 +87,7 @@ List of content:
 * [Turkey](https://t.me/Mina_Turkiye) 🇹🇷 Turkish telegram community
 * [France](https://t.me/mina_france) 🇫🇷 French telegram community
 * [Ukraine](https://t.me/mina_ukraine) 🇺🇦 Ukrainian telegram community
+* [India](https://t.me/Mina_india) IN Indian telegram community
 
 
 ------
