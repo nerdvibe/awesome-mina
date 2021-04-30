@@ -33,6 +33,7 @@ List of content:
 # Wallets
 * [~Clorio](https://clor.io) A Mina Protocol Browser/Desktop wallet
 * [StakingPower](https://github.com/crackerli/coda-mobile-wallet) A Mina Protocol mobile wallet
+* [Auro Wallet](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
 
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
