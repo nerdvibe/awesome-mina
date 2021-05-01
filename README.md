@@ -57,6 +57,7 @@ List of content:
 * [Piconbello pool](https://mina.piconbello.com) A staking pool with 0% fee
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
+* [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
