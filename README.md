@@ -10,15 +10,19 @@ A curated list of Mina resources, software and tools for Mina Protocol. This lis
 
 List of content:
 
-- [Official Links](#Official-Links)
-- [Wallets](#Wallets)
-- [Explorers](#Explorers)
-- [Tools](#Tools)
-- [Staking pools](#Staking-pools)
-- [Node scripts](#Node-scripts)
-- [Github repositories](#Github-repositories)
-- [Payout scripts](#Payout-scripts)
-- [International communities](#International-communities)
+- [Awesome Mina ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-mina-)
+- [Official Links](#official-links)
+- [Wallets](#wallets)
+- [Explorers](#explorers)
+- [Tools](#tools)
+- [Staking pools](#staking-pools)
+- [Monitoring dashboards](#monitoring-dashboards)
+- [Node scripts](#node-scripts)
+- [Github repositories](#github-repositories)
+- [Payout scripts](#payout-scripts)
+- [Others](#others)
+- [International communities](#international-communities)
+          - [Awesome Mina and awesome.mina.tools are community developed projects and are not affiliated to Mina Foundation/O(1)Labs.](#awesome-mina-and-awesomeminatools-are-community-developed-projects-and-are-not-affiliated-to-mina-foundationo1labs)
 
 # Official Links
 
@@ -58,10 +62,14 @@ List of content:
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 
+# Monitoring dashboards
+* [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
+* [Mina Node Dashboard](https://github.com/dguess/mina-node-dashboard) How to set up a Mina Node Dashboard using Prometheus and Grafana
+* [Mina Node Monitor](https://github.com/olton/mina-node-monitor) An application for visual monitoring of a node with alerts 
+
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
-* [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
 
 # Github repositories
