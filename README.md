@@ -32,9 +32,9 @@ List of content:
 * [Mina Telegram](https://t.me/minaprotocol) Official Mina Telegram Channel
 
 # Wallets
-* [~Clorio](https://clor.io) A Mina Protocol Browser/Desktop wallet
+* [~Clorio](https://clor.io) A Mina Protocol Wallet for Desktop and Browser
 * [StakingPower](https://github.com/crackerli/coda-mobile-wallet) A Mina Protocol mobile wallet
-* [Auro Wallet](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
+* [Auro](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
 
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
@@ -93,6 +93,10 @@ List of content:
 * [Turkey](https://t.me/Mina_Turkiye) 🇹🇷 Turkish telegram community
 * [France](https://t.me/mina_france) 🇫🇷 French telegram community
 * [Ukraine](https://t.me/mina_ukraine) 🇺🇦 Ukrainian telegram community
+* [India](http://t.me/mina_india) 🇮🇳 Indian telegram community
+* [Vietnam](http://t.me/minaprotocolVN) 🇻🇳 Vietnamise telegram community
+* [Spain](http://t.me/minaprotocolVN) 🇪🇸 Spanish telegram community
+* [Netherlands](http://t.me/minaprotocolNL) 🇳🇱 Dutch telegram community
 
 
 ------
