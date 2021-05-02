@@ -15,6 +15,7 @@ List of content:
 - [Explorers](#Explorers)
 - [Tools](#Tools)
 - [Staking pools](#Staking-pools)
+- [Monitoring dashboards](#monitoring-dashboards)
 - [Node scripts](#Node-scripts)
 - [Github repositories](#Github-repositories)
 - [Payout scripts](#Payout-scripts)
@@ -60,10 +61,14 @@ List of content:
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
 
+# Monitoring dashboards
+* [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
+* [Mina Node Dashboard](https://github.com/dguess/mina-node-dashboard) How to set up a Mina Node Dashboard using Prometheus and Grafana
+* [Mina Node Monitor](https://github.com/olton/mina-node-monitor) An application for visual monitoring of a node with alerts 
+
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
-* [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
 
 # Github repositories
