@@ -89,14 +89,13 @@ List of content:
 * [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community
 * [Korea](https://t.me/minaprotocol_kr) 🇰🇷 Korean telegram community
 * [Indonesia](http://t.me/Mina_Indonesia) 🇮🇩 Indonesian telegram community
-* [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish  telegram community
+* [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish telegram community
 * [Germany](https://t.me/mina_dach) 🇩🇪 German/DACH telegram community
 * [Turkey](https://t.me/Mina_Turkiye) 🇹🇷 Turkish telegram community
 * [France](https://t.me/mina_france) 🇫🇷 French telegram community
 * [Ukraine](https://t.me/mina_ukraine) 🇺🇦 Ukrainian telegram community
 * [India](http://t.me/mina_india) 🇮🇳 Indian telegram community
 * [Vietnam](http://t.me/minaprotocolVN) 🇻🇳 Vietnamise telegram community
-* [Spain](http://t.me/minaprotocolVN) 🇪🇸 Spanish telegram community
 * [Netherlands](http://t.me/minaprotocolNL) 🇳🇱 Dutch telegram community
 
 
