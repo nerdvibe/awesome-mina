@@ -10,19 +10,15 @@ A curated list of Mina resources, software and tools for Mina Protocol. This lis
 
 List of content:
 
-- [Awesome Mina ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-mina-)
-- [Official Links](#official-links)
-- [Wallets](#wallets)
-- [Explorers](#explorers)
-- [Tools](#tools)
-- [Staking pools](#staking-pools)
-- [Monitoring dashboards](#monitoring-dashboards)
-- [Node scripts](#node-scripts)
-- [Github repositories](#github-repositories)
-- [Payout scripts](#payout-scripts)
-- [Others](#others)
-- [International communities](#international-communities)
-          - [Awesome Mina and awesome.mina.tools are community developed projects and are not affiliated to Mina Foundation/O(1)Labs.](#awesome-mina-and-awesomeminatools-are-community-developed-projects-and-are-not-affiliated-to-mina-foundationo1labs)
+- [Official Links](#Official-Links)
+- [Wallets](#Wallets)
+- [Explorers](#Explorers)
+- [Tools](#Tools)
+- [Staking pools](#Staking-pools)
+- [Node scripts](#Node-scripts)
+- [Github repositories](#Github-repositories)
+- [Payout scripts](#Payout-scripts)
+- [International communities](#International-communities)
 
 # Official Links
 
