@@ -5,6 +5,7 @@
 3. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to open an issue and a PR.
 4. Descriptions should follow the link, on the same line, with capitalization consistent with the other entries in the section.
 5. Descriptions should be clear, concise, and non-promotional.
+6. ✨ Aaaaannd... don't forget to star the repo ;)
 
 ## Staking pools
 BPs and Staking pools have the opportunity to showcase in the awesome list if the following conditions are true:
