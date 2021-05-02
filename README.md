@@ -15,6 +15,7 @@ List of content:
 - [Explorers](#Explorers)
 - [Tools](#Tools)
 - [Staking pools](#Staking-pools)
+- [Monitoring dashboards](#monitoring-dashboards)
 - [Node scripts](#Node-scripts)
 - [Github repositories](#Github-repositories)
 - [Payout scripts](#Payout-scripts)
