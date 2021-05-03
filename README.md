@@ -48,6 +48,7 @@ List of content:
 * [MinaGraph API](https://minagraph.com) An alternative public GraphQL API node for Mina, exposed from the original GraphQL API of the Mina daemon
 * [Block Producer Rewards Calculator](https://towerstake.com/block-producer-rewards-calculator/) Calculator for estimating the returns as a validator
 * [Mina Converter](https://convert.mina.tools/) A simple utility to convert Mina <-> NanoMina
+* [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
