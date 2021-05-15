@@ -25,7 +25,7 @@ List of content:
 
 * [MinaProtocol](https://minaprotocol.com/) Official Mina website
 * [Mina Discord server](https://discord.com/invite/Vexf4ED) Official Mina Discord server
-* [Mina Documentation](https://minaprotocol.com/docs) Official Mina documentation
+* [Mina Documentation](https://docs.minaprotocol.com/en) Official Mina documentation
 * [Mina Github](https://github.com/MinaProtocol) Official Mina Github
 * [Mina Forum](https://forums.minaprotocol.com/) Official Mina forum
 * [Mina Twitter](https://twitter.com/minaprotocol) Official Mina twitter
