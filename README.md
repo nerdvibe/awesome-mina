@@ -73,6 +73,7 @@ List of content:
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
+* [mina-status-monitor](https://github.com/vanphandinh/mina-status-monitor) A tool on Docker for monitoring your node, restart automatically your node when it stuck in old blocks, and the snark stopper
 
 # Github repositories
 * [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
