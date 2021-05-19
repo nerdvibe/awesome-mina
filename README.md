@@ -25,16 +25,16 @@ List of content:
 
 * [MinaProtocol](https://minaprotocol.com/) Official Mina website
 * [Mina Discord server](https://discord.com/invite/Vexf4ED) Official Mina Discord server
-* [Mina Documentation](https://minaprotocol.com/docs) Official Mina documentation
+* [Mina Documentation](https://docs.minaprotocol.com/en) Official Mina documentation
 * [Mina Github](https://github.com/MinaProtocol) Official Mina Github
 * [Mina Forum](https://forums.minaprotocol.com/) Official Mina forum
 * [Mina Twitter](https://twitter.com/minaprotocol) Official Mina twitter
 * [Mina Telegram](https://t.me/minaprotocol) Official Mina Telegram Channel
 
 # Wallets
-* [~Clorio](https://clor.io) A Mina Protocol Browser/Desktop wallet
+* [~Clorio](https://clor.io) A Mina Protocol Wallet for Desktop and Browser
 * [StakingPower](https://github.com/crackerli/coda-mobile-wallet) A Mina Protocol mobile wallet
-* [Auro Wallet](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
+* [Auro](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
 
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
@@ -47,6 +47,8 @@ List of content:
 * [Validators List](https://mina.staketab.com/) Overview of validators for mainnet
 * [MinaGraph API](https://minagraph.com) An alternative public GraphQL API node for Mina, exposed from the original GraphQL API of the Mina daemon
 * [Block Producer Rewards Calculator](https://towerstake.com/block-producer-rewards-calculator/) Calculator for estimating the returns as a validator
+* [Mina Converter](https://convert.mina.tools/) A simple utility to convert Mina <-> NanoMina
+* [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
@@ -61,6 +63,7 @@ List of content:
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
 * [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
+* [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
@@ -71,6 +74,7 @@ List of content:
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
+* [mina-status-monitor](https://github.com/vanphandinh/mina-status-monitor) A tool for monitoring the Mina Node. Restarts automatically the node when stuck in old blocks.
 
 # Github repositories
 * [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
@@ -89,11 +93,14 @@ List of content:
 * [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community
 * [Korea](https://t.me/minaprotocol_kr) 🇰🇷 Korean telegram community
 * [Indonesia](http://t.me/Mina_Indonesia) 🇮🇩 Indonesian telegram community
-* [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish  telegram community
+* [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish telegram community
 * [Germany](https://t.me/mina_dach) 🇩🇪 German/DACH telegram community
 * [Turkey](https://t.me/Mina_Turkiye) 🇹🇷 Turkish telegram community
 * [France](https://t.me/mina_france) 🇫🇷 French telegram community
 * [Ukraine](https://t.me/mina_ukraine) 🇺🇦 Ukrainian telegram community
+* [India](http://t.me/mina_india) 🇮🇳 Indian telegram community
+* [Vietnam](http://t.me/minaprotocolVN) 🇻🇳 Vietnamise telegram community
+* [Netherlands](http://t.me/minaprotocolNL) 🇳🇱 Dutch telegram community
 
 
 ------
