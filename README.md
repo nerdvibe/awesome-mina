@@ -62,8 +62,8 @@ List of content:
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
-* [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 * [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
+* [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
