@@ -49,7 +49,7 @@ List of content:
 * [Block Producer Rewards Calculator](https://towerstake.com/block-producer-rewards-calculator/) Calculator for estimating the returns as a validator
 * [Mina Converter](https://convert.mina.tools/) A simple utility to convert Mina <-> NanoMina
 * [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
-* [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers leaderboard
+* [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers uptime leaderboard
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
