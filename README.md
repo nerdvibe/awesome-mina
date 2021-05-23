@@ -25,7 +25,7 @@ List of content:
 
 * [MinaProtocol](https://minaprotocol.com/) Official Mina website
 * [Mina Discord server](https://discord.com/invite/Vexf4ED) Official Mina Discord server
-* [Mina Documentation](https://minaprotocol.com/docs) Official Mina documentation
+* [Mina Documentation](https://docs.minaprotocol.com/en) Official Mina documentation
 * [Mina Github](https://github.com/MinaProtocol) Official Mina Github
 * [Mina Forum](https://forums.minaprotocol.com/) Official Mina forum
 * [Mina Twitter](https://twitter.com/minaprotocol) Official Mina twitter
@@ -48,6 +48,7 @@ List of content:
 * [MinaGraph API](https://minagraph.com) An alternative public GraphQL API node for Mina, exposed from the original GraphQL API of the Mina daemon
 * [Block Producer Rewards Calculator](https://towerstake.com/block-producer-rewards-calculator/) Calculator for estimating the returns as a validator
 * [Mina Converter](https://convert.mina.tools/) A simple utility to convert Mina <-> NanoMina
+* [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
@@ -62,6 +63,7 @@ List of content:
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
 * [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
+* [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 
 # Monitoring dashboards
@@ -73,6 +75,7 @@ List of content:
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
 * [Mina Node Install](https://github.com/jrwashburn/mina-node-install) Opinionated mina node install script
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
+* [mina-status-monitor](https://github.com/vanphandinh/mina-status-monitor) A tool for monitoring the Mina Node. Restarts automatically the node when stuck in old blocks.
 
 # Github repositories
 * [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
