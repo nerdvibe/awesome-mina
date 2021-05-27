@@ -55,6 +55,7 @@ List of content:
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
 * [MinaExplorer pool](https://docs.minaexplorer.com/minaexplorer/staking-pool) A staking pool with 5% fee
 * [Staketab pool](https://staketab.com/) A staking pool with 7% fee
+* [c29r3 pool](https://mina.staketab.com/validator/B62qjhiEXP45KEk8Fch4FnYJQ7UMMfiR3hq9ZeMUZ8ia3MbfEteSYDg) A staking pool with 7% fee
 * [ZKValidator pool](https://zkvalidator.com/) A staking pool with 10% fee
 * [P2P Validator](https://p2p.org/) A staking pool with 8% fee
 * [TheMinaPool](https://theminapool.com) A staking pool with 5% fee
