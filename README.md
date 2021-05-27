@@ -94,6 +94,7 @@ List of content:
 
 * [Italy](https://t.me/mina_italia) 🇮🇹 Italian telegram community
 * [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community
+* [Russia](https://t.me/joinchat/OcepTtlOq4YxOWQy) 🇷🇺 Mina Validators Ru
 * [Korea](https://t.me/minaprotocol_kr) 🇰🇷 Korean telegram community
 * [Indonesia](http://t.me/Mina_Indonesia) 🇮🇩 Indonesian telegram community
 * [Spain](https://t.me/MinaProtocol_Spanish) 🇪🇸 Spanish telegram community
