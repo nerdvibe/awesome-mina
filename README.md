@@ -90,6 +90,7 @@ List of content:
 * [Syncing a node](https://hackmd.io/@garethtdavies/B1TSCRF_D) A guide about the phases of syncing a Mina node from garethtdavies
 * [Staking Guide](https://antropocosmist.medium.com/how-to-stake-mina-a524b4fc8086) A detailed guide on how to stake from antropocosmist
 * [Staking Guide for Clorio Wallet](https://docs.clor.io/how-to-delegate) A simple guide on how to stake with Clorio Wallet
+* [Sending Mina transactions with Clorio Wallet](https://docs.clor.io/how-to-send-a-transaction) A simple guide on how to send transactions with Clorio Wallet
 
 # Payout scripts
 * [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn payout script
