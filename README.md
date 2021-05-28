@@ -93,8 +93,8 @@ List of content:
 * [Sending Mina transactions with Clorio Wallet](https://docs.clor.io/how-to-send-a-transaction) A simple guide on how to send transactions with Clorio Wallet
 
 # Payout scripts
-* [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn payout script
-* [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer payout script
+* [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn's payout script
+* [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer's payout script
 
 # Others
 * [MinaMask🎃](https://mask.minagraph.com) A tool for creating a Mina mask avatar
