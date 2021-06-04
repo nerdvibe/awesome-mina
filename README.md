@@ -37,6 +37,7 @@ List of content:
 * [~Clorio](https://clor.io) A Mina Protocol Wallet for Desktop and Browser
 * [StakingPower](https://github.com/crackerli/coda-mobile-wallet) A Mina Protocol mobile wallet
 * [Auro](https://www.aurowallet.com) A Mina Protocol Browser Extension/Mobile wallet
+* [Mina Browser Wallet](https://wallet.okesip.xyz) A Mina Protocol Browser wallet by OkeSip
 
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
