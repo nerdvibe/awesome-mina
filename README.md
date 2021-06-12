@@ -17,8 +17,10 @@ List of content:
 - [Staking pools](#Staking-pools)
 - [Monitoring dashboards](#monitoring-dashboards)
 - [Node scripts](#Node-scripts)
-- [Github repositories](#Github-repositories)
+- [Ledger Projects](#Ledger-projects)
+- [Guides, news and articles](#guides-news-and-articles)
 - [Payout scripts](#Payout-scripts)
+- [Others](#Others)
 - [International communities](#International-communities)
 
 # Official Links
@@ -28,7 +30,7 @@ List of content:
 * [Mina Documentation](https://docs.minaprotocol.com/en) Official Mina documentation
 * [Mina Github](https://github.com/MinaProtocol) Official Mina Github
 * [Mina Forum](https://forums.minaprotocol.com/) Official Mina forum
-* [Mina Twitter](https://twitter.com/minaprotocol) Official Mina twitter
+* [Mina Twitter](https://twitter.com/minaprotocol) Official Mina Twitter
 * [Mina Telegram](https://t.me/minaprotocol) Official Mina Telegram Channel
 
 # Wallets
@@ -50,6 +52,8 @@ List of content:
 * [Mina Converter](https://convert.mina.tools/) A simple utility to convert Mina <-> NanoMina
 * [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
 * [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers uptime leaderboard
+* [Mina Time Machine](https://towerstake.com/mina-time-machine/) Mina epochs explorer
+* [Mina Epoch Calculator](https://epoch.mina.tools) Calculate the best time for delegating Mina Tokens with the lowest epoch delay
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
@@ -67,7 +71,9 @@ List of content:
 * [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina - Dheeraj pool](https://www.stakeyourmina.com/) A staking pool with 1% fee
+* [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [c29r3 pool](https://mina.staketab.com/validator/B62qjhiEXP45KEk8Fch4FnYJQ7UMMfiR3hq9ZeMUZ8ia3MbfEteSYDg) A staking pool with 7% fee
+
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
@@ -80,16 +86,23 @@ List of content:
 * [Mina Node Install with Docker-compose](https://github.com/trancemind/mina-docker-compose) All-In-One Mina install docker-compose bundle
 * [mina-status-monitor](https://github.com/vanphandinh/mina-status-monitor) A tool for monitoring the Mina Node. Restarts automatically the node when stuck in old blocks.
 
-# Github repositories
+# Ledger projects
 * [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
 * [mina-ledger-js](https://github.com/nerdvibe/mina-ledger-js) LedgerJS bindings for ledger-mina-app
 
+# Guides, news and articles
+* [Mina Magazine](https://minamagazine.com/) A news website about the Mina ecosystem
+* [Syncing a node](https://hackmd.io/@garethtdavies/B1TSCRF_D) A guide about the phases of syncing a Mina node from garethtdavies
+* [Staking Guide](https://antropocosmist.medium.com/how-to-stake-mina-a524b4fc8086) A detailed guide on how to stake from antropocosmist
+* [Staking Guide for Clorio Wallet](https://docs.clor.io/how-to-delegate) A simple guide on how to stake with Clorio Wallet
+* [Sending Mina transactions with Clorio Wallet](https://docs.clor.io/how-to-send-a-transaction) A simple guide on how to send transactions with Clorio Wallet
+
 # Payout scripts
-* [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn payout script
-* [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer payout script
+* [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn's payout script
+* [MinaExplorer Payout Script](https://github.com/garethtdavies/mina-payout-script) MinaExplorer's payout script
 
 # Others
-* [MinaMask🎃](https://mask.minagraph.com) A tool for creating a cool Mina mask avatar, fun stuff for the Mina community
+* [MinaMask🎃](https://mask.minagraph.com) A tool for creating a Mina mask avatar
 
 # International communities
 
@@ -105,6 +118,8 @@ List of content:
 * [India](http://t.me/mina_india) 🇮🇳 Indian telegram community
 * [Vietnam](http://t.me/minaprotocolVN) 🇻🇳 Vietnamise telegram community
 * [Netherlands](http://t.me/minaprotocolNL) 🇳🇱 Dutch telegram community
+* [Mina Unofficial Community](https://t.me/MinaProtocolCommunity) International Mina (unofficial) Community
+* [Mina Unofficial Price talk](https://t.me/minapricediscussion) Unofficial Mina price talk chat
 
 
 ------
