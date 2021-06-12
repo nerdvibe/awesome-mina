@@ -93,6 +93,7 @@ List of content:
 * [Staking Guide](https://antropocosmist.medium.com/how-to-stake-mina-a524b4fc8086) A detailed guide on how to stake from antropocosmist
 * [Staking Guide for Clorio Wallet](https://docs.clor.io/how-to-delegate) A simple guide on how to stake with Clorio Wallet
 * [Sending Mina transactions with Clorio Wallet](https://docs.clor.io/how-to-send-a-transaction) A simple guide on how to send transactions with Clorio Wallet
+* [Ledger Guide for Installing & Staking](https://www.youtube.com/watch?v=ZezT6HHL9yk) A step by step guide on how to how to install and stake with Ledger wallet.
 
 # Payout scripts
 * [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn's payout script
