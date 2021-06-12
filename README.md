@@ -70,7 +70,6 @@ List of content:
 * [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
 * [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
-* [StakeYourMina - Dheeraj pool](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [c29r3 pool](https://mina.staketab.com/validator/B62qjhiEXP45KEk8Fch4FnYJQ7UMMfiR3hq9ZeMUZ8ia3MbfEteSYDg) A staking pool with 7% fee
 
