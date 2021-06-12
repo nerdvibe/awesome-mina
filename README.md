@@ -53,6 +53,7 @@ List of content:
 * [Delegator Rewards Calculator](https://towerstake.com/delegator-rewards-calculator/) Calculator for estimating the returns as a delegator
 * [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers uptime leaderboard
 * [Mina Time Machine](https://towerstake.com/mina-time-machine/) Mina epochs explorer
+* [Mina Epoch Calculator](https://epoch.mina.tools) Calculate the best time for delegating Mina Tokens with the lowest epoch delay
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
@@ -114,6 +115,8 @@ List of content:
 * [India](http://t.me/mina_india) 🇮🇳 Indian telegram community
 * [Vietnam](http://t.me/minaprotocolVN) 🇻🇳 Vietnamise telegram community
 * [Netherlands](http://t.me/minaprotocolNL) 🇳🇱 Dutch telegram community
+* [Mina Unofficial Community](https://t.me/MinaProtocolCommunity) International Mina (unofficial) Community
+* [Mina Unofficial Price talk](https://t.me/minapricediscussion) Unofficial Mina price talk chat
 
 
 ------
