@@ -68,7 +68,7 @@ List of content:
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
 * [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
-* [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
+* [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 3% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 
