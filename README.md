@@ -41,6 +41,7 @@ List of content:
 # Explorers
 * [MinaExplorer](https://minaexplorer.com/) The most used Mina explorer
 * [Hubble Explorer](https://hubble.figment.io/mina/chains/mainnet) A Mina Explorer focused on staking
+* [Mina Explorer from Staketab](https://mina.staketab.com/) Mina explorer from Staketab
 
 # Tools
 * [Mina Gas Station](https://fees.mina.tools/) Transaction fees and Snark price estimator
