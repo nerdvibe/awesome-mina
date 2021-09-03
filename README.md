@@ -72,6 +72,7 @@ List of content:
 * [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 5% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
+* [Everstake](https://everstake.one/mina) A staking pool with 5% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
