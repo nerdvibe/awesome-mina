@@ -73,6 +73,7 @@ List of content:
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [whisperit's pool](https://cryptostake.online/) A staking pool with 5% fee
+* [Everstake](https://everstake.one/mina) A staking pool with 5% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
@@ -96,6 +97,10 @@ List of content:
 * [Staking Guide for Clorio Wallet](https://docs.clor.io/how-to-delegate) A simple guide on how to stake with Clorio Wallet
 * [Sending Mina transactions with Clorio Wallet](https://docs.clor.io/how-to-send-a-transaction) A simple guide on how to send transactions with Clorio Wallet
 * [Ledger Guide for Installing & Staking](https://www.youtube.com/watch?v=ZezT6HHL9yk) A step by step guide on how to how to install and stake with Ledger wallet.
+* [Mina Protocol Overview](https://medium.com/everstake/mina-protocol-overview-the-features-of-a-new-succinct-blockchain-platform-6859ba8856b1) The Features Of A New Succinct Blockchain Platform.
+* [Staking Guide for Auro Wallet](https://medium.com/everstake/how-to-delegate-mina-using-the-auro-wallet-extension-38a118831ef5) A simple guide on how to stake with Auro Wallet
+* [Staking Guide for Mobile Wallet StakingPower](https://medium.com/everstake/how-to-delegate-mina-in-a-mobile-wallet-stakingpower-1bb2d581fe55) A simple guide on how to stake with Mobile Wallet StakingPower
+
 
 # Payout scripts
 * [mina-pool-payout](https://github.com/jrwashburn/mina-pool-payout) jrwashburn's payout script
