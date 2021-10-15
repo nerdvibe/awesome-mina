@@ -73,6 +73,7 @@ List of content:
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [whisperit's pool](https://cryptostake.online/) A staking pool with 5% fee
+* [Stakin](https://stakin.com/mina) A staking pool with 3% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
