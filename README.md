@@ -106,7 +106,7 @@ List of content:
 # Others
 * [MinaMask🎃](https://mask.minagraph.com) A tool for creating a Mina mask avatar
 
-# International communities
+# International communities - chats
 
 * [Italy](https://t.me/mina_italia) 🇮🇹 Italian telegram community
 * [Russia](https://t.me/mina_russia) 🇷🇺 Russian telegram community
@@ -123,6 +123,8 @@ List of content:
 * [Mina Unofficial Community](https://t.me/MinaProtocolCommunity) International Mina (unofficial) Community
 * [Mina Unofficial Price talk](https://t.me/minapricediscussion) Unofficial Mina price talk chat
 
+# Unofficial communities - websites
+* [Mina Crypto](https://www.minacrypto.com/) A Mina community all around Mina
 
 ------
 
