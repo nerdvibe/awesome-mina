@@ -79,7 +79,7 @@ List of content:
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 * [Mina Node Dashboard](https://github.com/dguess/mina-node-dashboard) How to set up a Mina Node Dashboard using Prometheus and Grafana
-* [Mina Node Monitor](https://github.com/olton/mina-node-monitor) An application for visual monitoring of a node with alerts 
+* [Mina Node Monitor](https://github.com/olton/mina-node-monitor) An application for visual monitoring of a node with alerts
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
@@ -88,7 +88,7 @@ List of content:
 * [mina-status-monitor](https://github.com/vanphandinh/mina-status-monitor) A tool for monitoring the Mina Node. Restarts automatically the node when stuck in old blocks.
 
 # Ledger projects
-* [ledger-mina-app](https://github.com/jspada/ledger-app-mina) Ledger's Mina APP
+* [app-mina](https://github.com/LedgerHQ/app-mina) Ledger's Mina APP
 * [mina-ledger-js](https://github.com/nerdvibe/mina-ledger-js) LedgerJS bindings for ledger-mina-app
 
 # Guides, news and articles
