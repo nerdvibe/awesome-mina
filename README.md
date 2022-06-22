@@ -55,6 +55,7 @@ List of content:
 * [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers uptime leaderboard
 * [Mina Time Machine](https://towerstake.com/mina-time-machine/) Mina epochs explorer
 * [Mina Epoch Calculator](https://epoch.mina.tools) Calculate the best time for delegating Mina Tokens with the lowest epoch delay
+* [Mina Notifier Bot](https://t.me/MinaNotifierBot) Mina Notifier Bot notifies users about transactions and other events in the Mina blockchain
 
 # Staking pools
 * [WeStake:Club⚡️](https://mina.westake.club) A staking pool with 2% fee
