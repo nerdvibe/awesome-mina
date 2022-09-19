@@ -55,6 +55,7 @@ List of content:
 * [(Better) Mina Uptime Leaderboard](https://towerstake.com/mina-uptime-leaderboard/) Mina block producers uptime leaderboard
 * [Mina Time Machine](https://towerstake.com/mina-time-machine/) Mina epochs explorer
 * [Mina Epoch Calculator](https://epoch.mina.tools) Calculate the best time for delegating Mina Tokens with the lowest epoch delay
+* [Mina Notifier Bot](https://t.me/MinaNotifierBot) Mina Notifier Bot notifies users about transactions and other events in the Mina blockchain
 * [Mina Offline Util](https://github.com/t4top/mina-offline-util/) A utility to sign Mina transactions offline. Useful for managing air-gapped cold wallets.
 
 # Staking pools
