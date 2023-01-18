@@ -70,13 +70,13 @@ List of content:
 * [StakeMina pool](https://stakemina.com) A staking pool with 5% fee
 * [TowerStake pool](https://towerstake.com) A staking pool with 5% fee
 * [Bit Cat🐱](https://www.bitcat365.com) A staking pool with 5% fee
-* [delegate-mina-protocol.com](https://delegate-mina-protocol.com) A staking pool with 5% fee
 * [StakeWithJenni](https://www.stakewithjenni.com) A staking pool with 3% fee
 * [Figment](https://figment.io/protocols/mina/) A staking pool with 10% fee
 * [StakeYourMina](https://www.stakeyourmina.com/) A staking pool with 1% fee
 * [whisperit's pool](https://cryptostake.online/) A staking pool with 5% fee
 * [Stakin](https://stakin.com/mina) A staking pool with 3% fee
 * [Brotherhood of Crypto](http://brotherhoodcrypto.io/mina-validator-details/) A staking pool with 1% fee
+* [P2P Staking 🍃](https://p2pstaking.org/) A staking pool with 5% fee
 
 # Monitoring dashboards
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
