@@ -82,6 +82,7 @@ List of content:
 * [Performance Dashboard](https://github.com/dsrvlabs/mina-performance-dashboard) Performance Dashboard
 * [Mina Node Dashboard](https://github.com/dguess/mina-node-dashboard) How to set up a Mina Node Dashboard using Prometheus and Grafana
 * [Mina Node Monitor](https://github.com/olton/mina-node-monitor) An application for visual monitoring of a node with alerts
+* [Node Monitoring Dashboard](https://mina-node-dashboard.vercel.app/) A website for monitoring network focused on nodes
 
 # Node scripts
 * [Snark Stopper](https://github.com/c29r3/mina-snark-stopper) Tool for stopping the snark
